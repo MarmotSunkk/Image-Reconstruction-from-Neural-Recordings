@@ -8,4 +8,4 @@ When training the VQ-VAE model, I used about 10,000 randomly selected images fro
 
 When training the Stable Diffusion model, the visual stimulus images from session 791319847 in the Allen Visual Coding database were used. The images are named in the order of visual stimuli. Note that pure black images and corresponding neural activities are removed. The neural responses should be stored in a csv file with the index corresponding to the image name, and each row has a column named 'frame', which is the index information of the image.
 
-Due to the large amount of data, the dataset is not provided in this resource.
+Due to its large size, the dataset and the trained model are not provided in this resource.
